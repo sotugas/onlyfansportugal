@@ -1,0 +1,11 @@
+{
+    "static_param": "QDKVrGOJMX7mJzzvftYptZIesa7lZFpC",
+    "format": "9609:{}:{:x}:64d122ea",
+    "checksum_indexes": [0, 0, 1, 2, 2, 2, 3, 4, 7, 8, 10, 14, 15, 15, 16, 17, 18, 20, 23, 24, 24, 25, 26, 27, 27, 28, 28, 31, 31, 31, 36, 38],
+    "checksum_constants": [-70,-101,-136,-96,105,129,67,-71,122,115,-113,-80,115,-93,83,110,-113,123,101,117,-111,100,-133,97,61,63,-60,-125,114,-78,-92,-84],
+    "checksum_constant": 705,
+    "app_token": "33d57ade8c02dbc5a333db99ff9ae26a",
+    "remove_headers": ["user-id"],
+    "error_code": 0,
+    "message": ""
+}
